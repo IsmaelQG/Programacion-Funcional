@@ -3,5 +3,4 @@ package es.iessaladillo.ismaelquiros.funcional.v2_superfunciones_clases.interfac
 public interface Predicado {
 
 	boolean test(Integer valor);
-	
 }
